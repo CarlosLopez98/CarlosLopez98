@@ -22,8 +22,8 @@ Here are some of my featured projects:
 
 ## 📫 Contact
 
-- Email: [youremail@example.com](mailto:carlos980718@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/carloslopez98)
+- Email: [carlos980718@gmail.com](mailto:carlos980718@gmail.com)
+- LinkedIn: [linkedin.com/in/carloslopez98](https://linkedin.com/in/carloslopez98)
 
 ---
 
