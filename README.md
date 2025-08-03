@@ -13,11 +13,15 @@ I'm a software developer passionate about building tools and platforms that impr
 ## 🚀 Projects
 
 Here are some of my featured projects:
-
+### React + Nodejs
 - [**NomadKing**](https://github.com/carloslpz1/nomadking_mvp) — Networking platform for digital nomads.
-- [**Code Sharing App**](https://github.com/CarlosLopez98/code-sharing-app) — Share and view code snippets.
 - [**Image Uploader**](https://github.com/CarlosLopez98/image-uploader) — Upload and manage image files.
 - [**Chat App**](https://github.com/CarlosLopez98/chat-app) — Real-time chat application with WebSockets.
+
+### React + Spring Boot
+- [**Code Sharing App**](https://github.com/CarlosLopez98/code-sharing-app) — Share and view code snippets.
+
+### Java + JavaFX
 - [**Offside Detection System**](https://github.com/CarlosLopez98/offside-detection-system) — Application designed to assist in determining offside positions in football
 
 ## 📫 Contact
