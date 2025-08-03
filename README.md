@@ -23,6 +23,7 @@ Here are some of my featured projects:
 
 ### Java + JavaFX
 - [**Offside Detection System**](https://github.com/CarlosLopez98/offside-detection-system) — Application designed to assist in determining offside positions in football
+- [**Music Player**](https://github.com/CarlosLopez98/music-player) — Application designed for play music files.
 
 ## 📫 Contact
 
