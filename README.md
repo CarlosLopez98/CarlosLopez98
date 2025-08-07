@@ -22,7 +22,8 @@ Here are some of my featured projects:
 - [**Code Sharing App**](https://github.com/CarlosLopez98/code-sharing-app) — Share and view code snippets.
 
 ### Java + JavaFX
-- [**Offside Detection System**](https://github.com/CarlosLopez98/offside-detection-system) — Application designed to assist in determining offside positions in football
+- [**Offside Detection System**](https://github.com/CarlosLopez98/offside-detection-system) — Application designed to assist in determining offside positions in football.
+- - [**Task App**](https://github.com/CarlosLopez98/task-app-java) — Application for task management.
 - [**Music Player**](https://github.com/CarlosLopez98/music-player) — Application designed for play music files.
 
 ## 📫 Contact
