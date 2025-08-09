@@ -20,6 +20,7 @@ Here are some of my featured projects:
 
 ### React + Spring Boot
 - [**Code Sharing App**](https://github.com/CarlosLopez98/code-sharing-app) — Share and view code snippets.
+- **Authentication App** — [API](https://github.com/CarlosLopez98/authentication-api-spring) and [Frontend](https://github.com/CarlosLopez98/authentication-react) that implements a simple authentication system.
 
 ### Java + JavaFX
 - [**Offside Detection System**](https://github.com/CarlosLopez98/offside-detection-system) — Application designed to assist in determining offside positions in football.
